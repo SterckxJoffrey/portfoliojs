@@ -1,0 +1,6 @@
+{
+  "projets": [
+    { "id": 1, "nom": "Mon Portfolio", "statut": "En cours" },
+    { "id": 2, "nom": "Application Météo", "statut": "Terminé" }
+  ]
+}
